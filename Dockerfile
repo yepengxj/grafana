@@ -1,2 +1,2 @@
 # grafana
-FROM grafana/grafana
+FROM grafana/grafana:master
